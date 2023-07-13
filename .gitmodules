@@ -1,0 +1,6 @@
+[submodule "docker_mongodb"]
+	path = docker_mongodb
+	url = https://github.com/soft-sec-dev/docker-db-set_up.git
+[submodule "docker-db-set_up_copy"]
+	path = docker-db-set_up_copy
+	url = https://github.com/soft-sec-dev/docker-db-set_up.git
